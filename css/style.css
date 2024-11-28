@@ -367,7 +367,7 @@ body {
   transition: all .8s ease 0s
 }
 .header._header-show {
-  transition: all .3s ease 0s;
+  transition: all 1s ease 0s;
   top: 0
 }
 .header__container {
